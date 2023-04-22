@@ -1,12 +1,24 @@
 {
   "name": "password-generator-vanillajs",
   "version": "1.0.0",
-  "description": "",
   "main": "password-generator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cybre3/password-generator-vanillaJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cybre3/password-generator-vanillaJS/issues"
+  },
+  "homepage": "https://github.com/Cybre3/password-generator-vanillaJS#readme",
+  "description": "",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
 }
