@@ -1,1 +1,1 @@
-<?php include_once("password-generator.html"); ?>
+<?php include_once("index.html"); ?>
